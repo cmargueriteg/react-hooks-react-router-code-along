@@ -591,7 +591,7 @@ function App() {
 export default App;
 ```
 
-```jsx
+```jsx.
 // src/index.js
 import React from "react";
 import ReactDOM from "react-dom";
